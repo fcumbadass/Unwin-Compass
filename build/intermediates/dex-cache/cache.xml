@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\classes-97d1a144618440e4c2aed6d4f3f330353b39df9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\classes-5b5ac1ec89257afbc94f339bc2b41ece95b1d121.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStuff\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-8e946bbd085cd57bc6284ee3adbcab5fcdb5c05d.jar" />
+    </item>
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="80a6f6f2d0dfcfae8c424cf81dcdf7157e7bf4b8">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\classes-488bb01c52065b745884d5e6f63196a731c61544.jar" />
+    </item>
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\classes-5d069537632f397790ff473bcfc2ab4664ae963f.jar" />
+    </item>
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-205e6b3a4817263be738d6e04c46aa16c1cd1d08.jar" />
+    </item>
+    <item
+        jar="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\unwin\AndroidStudioProjects\WearCompass\wear\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-afe1467f92235c4d70e01060afb1755da7fb63d3.jar" />
+    </item>
+
+</items>
